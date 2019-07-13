@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity_02</string>
+    <string-array name="beer">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+        <item>cola</item>
+    </string-array>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands"></string>
+</resources>
